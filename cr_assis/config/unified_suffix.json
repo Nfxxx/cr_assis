@@ -1,0 +1,13 @@
+{
+    "-busd-swap": ["-busd-swap", "_busd_swap", "busd-swap", "busd_swap"],
+    "-usdt-swap": ["-usdt-swap", "_usdt_swap", "usdt-swap", "usdt_swap"],
+    "-usdc-swap": ["-usdc-swap", "_usdc_swap", "usdc-swap", "usdc_swap"],
+    "-usd-swap": ["-usd-swap", "_usd_swap", "usd-swap", "usd_swap"],
+    "-busd-future": ["-busd-future", "_busd_future", "busd-future", "busd_future"],
+    "-usdt-future": ["-usdt-future", "_usdt_future", "usdt-future", "usdt_future"],
+    "-usdc-future": ["-usdc-future", "_usdc_future", "usdc-future", "usdc_future"],
+    "-usd-future": ["-usd-future", "_usd_future", "usd-future", "usd_future"],
+    "-usdt": ["-usdt", "_usdt", "usdt", "spot", "-spot", "_spot"],
+    "-busd": ["-busd", "_busd"],
+    "-usdc": ["-usdc", "_usdc"]
+}

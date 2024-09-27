@@ -1,0 +1,14 @@
+{
+    "default_path": "/Documents/GitHub/cr_assis/cr_assis/config/buffet2_config/default/default_okex.json", 
+    "total_mv":{
+        "test_otest2": [200, 250, 300]
+    },
+    "single_mv":{
+        "fsc":{
+            "eth": [100, 120]
+        }
+    },
+    "thresh":{
+        "all" : {"beth": {"open":2, "closemaker":2}}
+    }
+}

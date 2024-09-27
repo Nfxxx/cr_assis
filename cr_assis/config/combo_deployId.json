@@ -1,0 +1,12 @@
+{
+    "binance_busd_swap-binance_usdt_swap": ["h3f_binance_uswap_binance_uswap"],
+    "okx_spot-okx_usdt_swap": ["ssf_okexv5_spot_okexv5_uswap"],
+    "okx_usd_swap-okx_usdt_swap": ["dt_okex_cswap_okex_uswap"],
+    "okx_usd_swap-okx_usdc_swap": ["dt_okex_cswap_okex_uswap"],
+    "gate_spot-gate_usdt_swap": ["ssf_gate_spot_gate_uswap"],
+    "gate_usdt_swap-okx_usdt_swap": ["h3f_gate_uswap_okx_uswap"],
+    "binance_spot-binance_usdt_swap": ["ssfd_binance_spot_binance_uswap"],
+    "bybit_usdc_swap-bybit_usdt_swap": ["h3f_bybit_uswap_bybit_uswap"],
+    "bybit_spot-bybit_usdt_swap": ["ssf_bybit_spot_bybit_uswap"],
+    "binance_usd_swap-binance_usdt_swap": ["dt_binance_cswap_binance_uswap"]
+}

@@ -1,0 +1,8 @@
+{
+    "btc": {
+        "level": 1,
+        "side": "long",
+        "uplimit":1,
+        "accounts": ["test_otest2"]
+    }
+}

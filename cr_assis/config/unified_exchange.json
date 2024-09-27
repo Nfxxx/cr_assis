@@ -1,0 +1,7 @@
+{
+    "okex": ["okx", "okex", "okexv5", "okex5", "ok", "o"],
+    "binance": ["binance", "b"],
+    "gate": ["gate", "gateio", "g"],
+    "bybit": ["bybit", "by"],
+    "ftx": ["ftx", "f"]
+}

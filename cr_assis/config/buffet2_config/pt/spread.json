@@ -1,0 +1,1 @@
+{"default_path": "/jupyter/cr_assis/cr_assis/config/buffet2_config/default/default_spread.json", "total_mv": {"test_otest2": [200, 220, 230], "test_otest4": [200, 220, 230]}, "single_mv": {"dt": {"eth": [100, 120], "btc": [100, 120]}}, "thresh": {}}

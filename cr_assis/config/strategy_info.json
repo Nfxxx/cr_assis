@@ -1,0 +1,7 @@
+{
+    "uswap": "usdt_swap",
+    "cswap": "usd_swap",
+    "ufuture": "usdt_future",
+    "cfuture": "usd_future",
+    "margin": "spot"
+}

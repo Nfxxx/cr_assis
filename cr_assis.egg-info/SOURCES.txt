@@ -1,0 +1,8 @@
+setup.py
+cr_assis/__init__.py
+cr_assis/load.py
+cr_assis.egg-info/PKG-INFO
+cr_assis.egg-info/SOURCES.txt
+cr_assis.egg-info/dependency_links.txt
+cr_assis.egg-info/requires.txt
+cr_assis.egg-info/top_level.txt
